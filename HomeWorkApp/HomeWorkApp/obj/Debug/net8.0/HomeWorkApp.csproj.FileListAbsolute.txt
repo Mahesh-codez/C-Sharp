@@ -1,0 +1,14 @@
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\obj\Debug\net8.0\HomeWorkApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\obj\Debug\net8.0\HomeWorkApp.AssemblyInfoInputs.cache
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\obj\Debug\net8.0\HomeWorkApp.AssemblyInfo.cs
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\obj\Debug\net8.0\HomeWorkApp.csproj.CoreCompileInputs.cache
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\bin\Debug\net8.0\HomeWorkApp.exe
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\bin\Debug\net8.0\HomeWorkApp.deps.json
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\bin\Debug\net8.0\HomeWorkApp.runtimeconfig.json
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\bin\Debug\net8.0\HomeWorkApp.dll
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\bin\Debug\net8.0\HomeWorkApp.pdb
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\obj\Debug\net8.0\HomeWorkApp.dll
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\obj\Debug\net8.0\refint\HomeWorkApp.dll
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\obj\Debug\net8.0\HomeWorkApp.pdb
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\obj\Debug\net8.0\HomeWorkApp.genruntimeconfig.cache
+D:\Code practice\Homework c# 2nd trimester\HomeWorkApp\HomeWorkApp\obj\Debug\net8.0\ref\HomeWorkApp.dll
