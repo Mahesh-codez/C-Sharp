@@ -1,0 +1,14 @@
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\bin\Debug\net8.0\Week2SecondTrimester.exe
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\bin\Debug\net8.0\Week2SecondTrimester.deps.json
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\bin\Debug\net8.0\Week2SecondTrimester.runtimeconfig.json
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\bin\Debug\net8.0\Week2SecondTrimester.dll
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\bin\Debug\net8.0\Week2SecondTrimester.pdb
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\obj\Debug\net8.0\Week2SecondTrimester.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\obj\Debug\net8.0\Week2SecondTrimester.AssemblyInfoInputs.cache
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\obj\Debug\net8.0\Week2SecondTrimester.AssemblyInfo.cs
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\obj\Debug\net8.0\Week2SecondTrimester.csproj.CoreCompileInputs.cache
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\obj\Debug\net8.0\Week2SecondTrimester.dll
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\obj\Debug\net8.0\refint\Week2SecondTrimester.dll
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\obj\Debug\net8.0\Week2SecondTrimester.pdb
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\obj\Debug\net8.0\Week2SecondTrimester.genruntimeconfig.cache
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\Week2SecondTrimester\obj\Debug\net8.0\ref\Week2SecondTrimester.dll

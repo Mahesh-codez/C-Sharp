@@ -1,0 +1,14 @@
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\bin\Debug\net8.0\SecondTrimesterApp.exe
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\bin\Debug\net8.0\SecondTrimesterApp.deps.json
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\bin\Debug\net8.0\SecondTrimesterApp.runtimeconfig.json
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\bin\Debug\net8.0\SecondTrimesterApp.dll
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\bin\Debug\net8.0\SecondTrimesterApp.pdb
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\obj\Debug\net8.0\SecondTrimesterApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\obj\Debug\net8.0\SecondTrimesterApp.AssemblyInfoInputs.cache
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\obj\Debug\net8.0\SecondTrimesterApp.AssemblyInfo.cs
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\obj\Debug\net8.0\SecondTrimesterApp.csproj.CoreCompileInputs.cache
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\obj\Debug\net8.0\SecondTrimesterApp.dll
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\obj\Debug\net8.0\refint\SecondTrimesterApp.dll
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\obj\Debug\net8.0\SecondTrimesterApp.pdb
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\obj\Debug\net8.0\SecondTrimesterApp.genruntimeconfig.cache
+D:\Code practice\SecondTrimesterApp\SecondTrimesterApp\obj\Debug\net8.0\ref\SecondTrimesterApp.dll

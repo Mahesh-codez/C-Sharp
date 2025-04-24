@@ -1,0 +1,14 @@
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\bin\Debug\net8.0\NestedFor.exe
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\bin\Debug\net8.0\NestedFor.deps.json
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\bin\Debug\net8.0\NestedFor.runtimeconfig.json
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\bin\Debug\net8.0\NestedFor.dll
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\bin\Debug\net8.0\NestedFor.pdb
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\obj\Debug\net8.0\NestedFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\obj\Debug\net8.0\NestedFor.AssemblyInfoInputs.cache
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\obj\Debug\net8.0\NestedFor.AssemblyInfo.cs
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\obj\Debug\net8.0\NestedFor.csproj.CoreCompileInputs.cache
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\obj\Debug\net8.0\NestedFor.dll
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\obj\Debug\net8.0\refint\NestedFor.dll
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\obj\Debug\net8.0\NestedFor.pdb
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\obj\Debug\net8.0\NestedFor.genruntimeconfig.cache
+D:\Code practice\Homework c# 2nd trimester\Week2SecondTrimester\NestedFor\obj\Debug\net8.0\ref\NestedFor.dll
